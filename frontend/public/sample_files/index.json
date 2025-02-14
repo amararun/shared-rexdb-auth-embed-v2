@@ -1,0 +1,18 @@
+[
+  {
+    "name": "RBI_CARDS_ATM_POS_DEC2024.txt",
+    "size": "14 KB",
+    "rowCount": 65,
+    "columnCount": 28,
+    "description": "This is Reserve Bank of India's monthly statistics report on ATMs, credit cards, debit cards, and POS transactions. The dataset provided is for December 2024.",
+    "analysisPrompt": "The data comes from the Reserve Bank of India's monthly statistics, covering around 60-70 banks. It includes key metrics on ATMs, credit cards, debit cards, and POS transactions. The dataset provided is for December 2024.\n\nObjective:  \nRank the top banks in the credit card segment using a scoring system based on relevant metrics. Derive meaningful ratios and derived variables to determine rankings - give some meaningful names to derived variables.\n\nRequirements:  \n- Develop a ranking mechanism or scoring system.  \n- Provide the top 10 banks based on the final ranking.  \n- Share detailed methodology, formulas used, calculations and assumptions \n- Additional insights from your analysis \n- Include at least 3 charts to visualize insights -separate charts please"
+  },
+  {
+    "name": "ICICI_BLUECHIP_SEP_DEC_2024.txt",
+    "size": "6.8 KB",
+    "rowCount": 82,
+    "columnCount": 8,
+    "description": "This data is monthly portfolio holdings disclosure of ICICI Prudential MF for September and December 2024, with market value and quantities of each instrument at the end of each month.",
+    "analysisPrompt": "I want to analyze changes in the portfolio composition over time. Specifically, I'm interested in the percentage composition of each instrument, calculated as its market value relative to the total market value for that month - and more importantly the major changes, additions, exits in that in December over November. Please analyze and share insights with at least 3 charts - separate charts please"
+  }
+] 
