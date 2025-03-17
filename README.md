@@ -175,6 +175,7 @@ Each agent flow is composed of:
    - API endpoints
    - System prompts
    - Tool configurations
+   - In configuration setting remove any existing IP Whitelists / add your own
 4. Deploy the flows and copy the prediction API endpoints
 5. Update your `.env` file with the new prediction API endpoints
 
