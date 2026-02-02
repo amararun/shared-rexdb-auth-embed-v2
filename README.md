@@ -308,3 +308,9 @@ Check out the Volo playlist on YouTube for brilliant videos on using Cursor AI, 
 ### Flowise AI
 For comprehensive guides on Flowise implementation and best practices, visit:
 - [Leon van Zyl's YouTube Channel](https://www.youtube.com/@leonvanzy) - Top guide for anything Flowise
+
+## Author
+
+Built by [Amar Harolikar](https://www.linkedin.com/in/amarharolikar/)
+
+Explore 30+ open source AI tools for analytics, databases & automation at [tigzig.com](https://tigzig.com)
